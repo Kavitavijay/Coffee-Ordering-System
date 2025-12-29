@@ -22,4 +22,4 @@ A simple Python-based command-line Coffee Ordering System developed using Object
 1. Clone the repository
 2. Run the file:
 ```bash
-python coffee_order.py
+python coffee_app.py
